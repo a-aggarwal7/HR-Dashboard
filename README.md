@@ -66,11 +66,6 @@ This HR Analytics Dashboard enables HR teams to:
 
 ---
 
-## 🏷️ Tags
-`#Tableau` `#DataVisualization` `#HRAnalytics` `#Dashboard` `#BusinessIntelligence`
-
----
-
 ## 👨‍💻 Author
 **Aditya Aggarwal**  
 📧 [Your Email or LinkedIn]  
